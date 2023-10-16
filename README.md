@@ -7,6 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Giao diện đăng nhập 
+<img width="439" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/32ca8091-e61e-481b-8ce0-b8e54627d06d">
+
+## Giao diện giảng viên (Đề xuất đề tài)
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/2338b0a5-7f2d-4ccc-94e6-2a2975a7ae50">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/9f772ca9-8397-4b05-8729-6280c1f14935">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/93503871-ed2c-4f45-b42f-527119d14d95">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/f2e35e51-4f63-4e2b-9421-e33def560bea">
+
+
+## Giao diện sinh viên (Chọn đề tài)
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/b151725d-a1fb-4d5f-849a-260394d837b3">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/623458f0-a373-4437-b124-92980b35c58a">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/6800a266-207f-4e49-97bc-507e27180c90">
+
+
+## Giao diện quản lý - Admin
+<img width="454" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/043e3a00-6b4e-4da4-a7b2-4d92606358c6">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/028c95d7-00d5-4663-acef-e2ad31f966e8">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/55d9b4c2-2702-4991-abcb-48baafb9b871">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/732476ad-c7e8-4eb8-ae53-5f883bad1007">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/f2584a03-469d-49ff-a6e7-30684f25aa00">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/49bc9b68-1ddd-479b-a4e5-6486deee2704">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/6d640c34-2f58-4527-b4db-58b31bd7bbc4">
+<img width="454" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/1ad732b5-6557-41a9-9b66-bc86d6dc3cac">
+<img width="468" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/4db1d324-e1fe-4dbc-97a5-f70157ca5241">
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -59,7 +87,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-<img width="439" alt="image" src="https://github.com/HuynhNhatTruong0108/example-app/assets/102126628/5476a179-7c50-4f2c-b5b9-de13862105ba">
+
 
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
@@ -67,3 +95,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
